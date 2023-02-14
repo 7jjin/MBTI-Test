@@ -17,7 +17,7 @@ body{
     height: 20px;
     background-color: #FFB103;
     border-radius: 10px;
-    transform: 0.2s;
+    transition:0.3s;
 }
 .question-box{
     max-width: 420px;
