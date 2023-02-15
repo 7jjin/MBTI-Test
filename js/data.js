@@ -143,7 +143,7 @@ export const results = [
       '(이상) <<<<<< (현실)<br>가끔 이성에게 상처를 줄 때가 있어요, 그게 아닌데...'
     ],
     jobs: ['개발자', '데이터분석가'],
-    lectureImg: '/btn-green/images/result_lecture5.png',
+    lectureImg: '/images/result_lecture5.png',
     lectureUrl: 'https://bit.ly/3U0O3Kj'
   },
   {
