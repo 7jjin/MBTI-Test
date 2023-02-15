@@ -1,6 +1,6 @@
 body{
     background-color: #EAF8FF;
-    background-image: url("/assets/assets/images/result_bg.jpg");
+    background-image: url("/images/result_bg.jpg");
     background-position: top center;
     background-repeat: no-repeat;
 }
@@ -50,7 +50,7 @@ body{
 .result .job{
     flex:1;
     background-color: #FFFFFF;
-    background-image: url("/assets/assets/images/result_star.png");
+    background-image: url("/images/result_star.png");
     background-position: center center;
     background-repeat: no-repeat;
     font-size: 30px;
